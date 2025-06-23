@@ -1,0 +1,16 @@
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Repositores\bin\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Repositores.deps.json
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Repositores\bin\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Repositores.dll
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Repositores\bin\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Repositores.pdb
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Repositores\bin\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Entities.dll
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Repositores\bin\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Entities.pdb
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Repositores\obj\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Repositores.csproj.AssemblyReference.cache
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Repositores\obj\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Repositores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Repositores\obj\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Repositores.AssemblyInfoInputs.cache
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Repositores\obj\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Repositores.AssemblyInfo.cs
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Repositores\obj\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Repositores.csproj.CoreCompileInputs.cache
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Repositores\obj\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Repositores.sourcelink.json
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Repositores\obj\Debug\net9.0\Microsof.120972AE.Up2Date
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Repositores\obj\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Repositores.dll
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Repositores\obj\Debug\net9.0\refint\Microsoft.ILP2025.EmployeeCRUD.Repositores.dll
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Repositores\obj\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Repositores.pdb
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Repositores\obj\Debug\net9.0\ref\Microsoft.ILP2025.EmployeeCRUD.Repositores.dll

@@ -1,6 +1,22 @@
 @model Microsoft.ILP2025.EmployeeCRUD.Entities.EmployeeEntity
 
-<form asp-action="Create" method="post" class="container mt-4">
+<style>
+    .centered-form {
+        margin: 0 auto;
+        text-align: center;
+        font-size: 18px;
+        max-width: 600px;
+    }
+
+    .centered-form input,
+    .centered-form label,
+    .centered-form button {
+        text-align: left;
+        font-size: 18px;
+    }
+</style>
+
+<form asp-action="Create" method="post" class="container mt-4 centered-form">
     <div class="row mb-3">
         <label class="col-sm-2 col-form-label">Id:</label>
         <div class="col-sm-6">

@@ -1,0 +1,12 @@
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Entities\bin\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Entities.deps.json
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Entities\bin\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Entities.dll
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Entities\bin\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Entities.pdb
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Entities\obj\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Entities\obj\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Entities.AssemblyInfoInputs.cache
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Entities\obj\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Entities.AssemblyInfo.cs
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Entities\obj\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Entities.csproj.CoreCompileInputs.cache
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Entities\obj\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Entities.sourcelink.json
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Entities\obj\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Entities.dll
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Entities\obj\Debug\net9.0\refint\Microsoft.ILP2025.EmployeeCRUD.Entities.dll
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Entities\obj\Debug\net9.0\Microsoft.ILP2025.EmployeeCRUD.Entities.pdb
+C:\Users\labadmin\Desktop\ILP-practice-MS-ACC\ILPEmployeeCRUD\Microsoft.ILP2025.EmployeeCRUD.Entities\obj\Debug\net9.0\ref\Microsoft.ILP2025.EmployeeCRUD.Entities.dll
